@@ -1,0 +1,22 @@
+{
+  "name": "bankingbuddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "ask-sdk": "^2.7.0",
+    "aws-sdk": "^2.508.0",
+    "moment": "^2.24.0",
+    "n26-api": "^0.1.0"
+  },
+  "devDependencies": {
+    "serverless-webpack": "^5.3.1",
+    "webpack": "^4.39.1",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Christophersen",
+  "license": "MIT"
+}
